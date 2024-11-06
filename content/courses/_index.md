@@ -1,4 +1,4 @@
 ---
 title: "Courses"
-description: "Courses on business cycles, economic slack, unemployment, macroeconomics, and mathematical methods. For undergraduate and graduate students."
+description: "Courses on econometrics (UG), public economics (UG/PG) and the economy of Ireland (UG) at Trinity College Dublin"
 ---
