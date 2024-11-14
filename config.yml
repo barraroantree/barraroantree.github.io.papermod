@@ -56,17 +56,17 @@ params:
     profileMode:
           enabled: true
           title: Barra Roantree
-          subtitle: "I am an Assistant Professor of Economics at Trintiy College Dublin. My research focuses on the design of the tax and welfare system, and the evolution and distribution of living standards in Ireland."
+          subtitle: "I'm an Assistant Professor in Economics and Programme Director of the MSc in Economic Policy at Trinity College Dublin. My research focuses on the design of the tax and welfare system, and the evolution and distribution of living standards in Ireland. I previously worked as an economist at the Economic and Social Research Institute (ESRI) in Dublin and the Institute for Fiscal Studies (IFS) in London. I was a member of the Irish Government's 2021-22 Commission on Taxation and Welfare."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Barra Roantree
           buttons:
-            - name: Papers
-              url: /papers/
+            - name: Research
+              url: /research/
             - name: Courses
               url: /courses/
-            - name: Policy
+            - name: Policy Reports
               url: /policy/
             - name: Newsletter
               url: https://howtotaxandspendit.substack.com/
