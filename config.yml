@@ -14,18 +14,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Research
+          url: /research/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: Teaching
+          url: /Teaching/
           weight: 2
-        - name: Policy
+        - name: Policy reports
           url: /policy/
           weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 5     
         - name: Newsletter
           url: https://howtotaxandspendit.substack.com/
           weight: 4
@@ -64,8 +61,8 @@ params:
           buttons:
             - name: Research
               url: /research/
-            - name: Courses
-              url: /courses/
+            - name: Teaching
+              url: /Teaching/
             - name: Policy Reports
               url: /policy/
             - name: Newsletter
