@@ -18,7 +18,7 @@ menu:
           url: /research/
           weight: 1
         - name: Teaching
-          url: /Teaching/
+          url: /teaching/
           weight: 2
         - name: Policy reports
           url: /policy/
@@ -62,7 +62,7 @@ params:
             - name: Research
               url: /research/
             - name: Teaching
-              url: /Teaching/
+              url: /teaching/
             - name: Policy Reports
               url: /policy/
             - name: Newsletter
